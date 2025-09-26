@@ -6,6 +6,7 @@ __pycache__/
 .DS_Store
 modflow/
 content_weekly/week_05/plots/*.png
+uv.lock
 
 # C extensions
 *.so
